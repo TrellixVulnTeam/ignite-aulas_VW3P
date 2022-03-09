@@ -1,2 +1,4 @@
 # ignite-aulas
-Ignite - Rocketseat
+Curso Ignite da Rocketseat
+[ ] ReactJS
+[ ] NodeJS
